@@ -1,4 +1,4 @@
-# Afaan-Oromoo-Stemmer-using-python-and-NLTK
+# Afaan-Oromoo-Stemmer-using-python-and-NLTK Ethiopia 
 
 Instructions
 
